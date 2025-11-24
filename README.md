@@ -6,10 +6,7 @@
 
 # Participantes
 
-# Caio Leimig
-
-# Fernando Soares
-
-# Gabriel França
-
-# Luis Guilherme
+- Caio Leimig
+- Fernando Soares
+- Gabriel França
+- Luis Guilherme
